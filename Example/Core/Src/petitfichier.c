@@ -1,6 +1,6 @@
 
 
 void NouveauDelai(void){
-	HAL_Delay(2000);
+	HAL_Delay(4000);
 }
 
