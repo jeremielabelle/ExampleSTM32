@@ -5,7 +5,6 @@
  *      Author: DJLAB
  */
 #include "main.h"
-#include "stm32f4xx_hal.h"
 
 #ifndef INC_PETITFICHIER_H_
 #define INC_PETITFICHIER_H_
